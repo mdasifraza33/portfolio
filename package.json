@@ -1,0 +1,17 @@
+{
+  "name": "asifportfolio",
+  "version": "1.0.0",
+  "description": "Know about me",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Md Asif Raza",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}
